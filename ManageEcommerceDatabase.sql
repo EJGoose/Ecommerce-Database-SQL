@@ -1,3 +1,4 @@
+--These queries were written for Microsoft SQL Server
 
 -- Create a table to store customer information, including a unique identifier for each customer, their first and last names, email address, and the date they joined the store.
 
